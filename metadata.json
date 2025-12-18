@@ -1,0 +1,7 @@
+{
+  "name": "ÉcoleDirecteCI",
+  "description": "Système complet de gestion scolaire pour la Côte d'Ivoire avec dashboards pour administrateurs, enseignants et élèves.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
